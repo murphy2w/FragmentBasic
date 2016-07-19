@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\exersize\\guide\\FragmentBasics1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "D:\\exersize\\guide\\FragmentBasics1\\app\\src\\main\\res\\layout\\article_view.xml"
+    },
+    {
+        "merged": "D:\\exersize\\guide\\FragmentBasics1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_articles.xml",
+        "source": "D:\\exersize\\guide\\FragmentBasics1\\app\\src\\main\\res\\layout\\news_articles.xml"
+    }
+]

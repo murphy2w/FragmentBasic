@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\exersize\guide\FragmentBasics1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_160cef38d65cc2d494c5e2a6ca9d82f92d3dbe12\classes.dex" />
+    </item>
+    <item
+        jar="D:\exersize\guide\FragmentBasics1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6540ebb156b090fa158be07e14e430940cf1adca">
+        <dex dex="D:\exersize\guide\FragmentBasics1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6761f8847ac320623ef2c036643f9c95bd08b3a4\classes.dex" />
+    </item>
+    <item
+        jar="D:\exersize\guide\FragmentBasics1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="546538fc8cb65609d807fcba046526b2d75152a2">
+        <dex dex="D:\exersize\guide\FragmentBasics1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_776f0259239a00f87d22517b6177c1b94778ea3b\classes.dex" />
+    </item>
+
+</items>
